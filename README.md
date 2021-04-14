@@ -48,13 +48,13 @@ for each county in the precinct:
 
 Here are some screenshots of my code for the election audit:
 
-![VS Code](https://github.com/Kyle2Miles93/Election_Analysis/blob/main/Code_VS_1.png)
+![VS Code](https://github.com/Kyle2Miles93/Election-Analysis/blob/main/Resources/Code_VS_1.png)
 
-![VS Code second half](https://github.com/Kyle2Miles93/Election_Analysis/blob/main/Code_VS_2.png)
+![VS Code second half](https://github.com/Kyle2Miles93/Election-Analysis/blob/main/Resources/Code_VS_2.png)
 
 Here is a screenshot of my text file that was written through my python code:
 
-![Election_analysis_text file](https://github.com/Kyle2Miles93/Election_Analysis/blob/main/Election_analysis_%20txt.png)
+![Election_analysis_text file](https://github.com/Kyle2Miles93/Election-Analysis/blob/main/Resources/Election_analysis_%20txt.png)
 
 This script can be used for other election audits. It enables one to easily write text automatically to a separate file on *Visual Studio
 Code* or other software with **Python**. It is a script that calculates the percentage of the votes had for each county and candidate, as well
